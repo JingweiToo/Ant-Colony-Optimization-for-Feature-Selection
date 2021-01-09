@@ -1,4 +1,4 @@
-# Ant-Colony-Optimization-for-Feature-Selection
+# Ant Colony Optimization for Feature Selection
 
 ![Wheel](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/ee9f059d-357b-4a8c-9fe0-c9d1bae01afc/403e87d0-5cb1-4e33-a883-e099809f938a/images/1600411474.JPG)
 
